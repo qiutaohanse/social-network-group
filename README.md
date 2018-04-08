@@ -1,7 +1,7 @@
 # social-network-group
-打算放一些我们觉得比较好的资料以及自己的一些成果
+打算放一些自己学习的东西，以及一些资料
 
-[组合数学中的遭遇数（rencontre numbers）与子阶乘（subfactorial）]
+1、[组合数学中的遭遇数（rencontre numbers）与子阶乘（subfactorial）]
 
 
 
